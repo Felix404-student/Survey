@@ -21,8 +21,7 @@ instructions, and a list of <cite>Question</cite> objects).</p>
 <p>For the main part of this exercise, you’ll only need to worry
 about the <cite>satisfaction_survey</cite> survey in that file. It does
 not include any questions that allow comments, so you can skip
-that for now. (Ignore the personality quiz and the <cite>surveys</cite> object;
-those come into play only in the Further Study).</p>
+that for now.</p>
 <p>Play with the <cite>satisfaction_survey</cite> in ipython to get a feel
 for how it works: it is an instance of the <cite>Survey</cite> class, and
 its <cite>.questions</cite> attribute is a list of instances of the
